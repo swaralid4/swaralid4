@@ -1,4 +1,5 @@
-Hi, I'm Swarali
+Hi, I'm Swarali Deshpande ✨
 
-Biomolecular Science student in University College Dublin
-Intrested in Bioinformatics
+🧬Masters in Biological & Biomolecular Science student at University College Dublin</br>
+👩🏻‍💻Intrested in Bioinformatics</br>
+
