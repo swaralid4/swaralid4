@@ -1,10 +1,10 @@
 Hi, I'm Swarali Deshpande ✨
 
-🎓 MSc Biological & Biomolecular Science (Bioinformatics) — University College Dublin<br>  
+🎓 MSc Biological & Biomolecular Science (Bioinformatics) — University College Dublin</br>  
 📍 Dublin, Ireland</br> 
 🔬 Junior Bioinformatician | RNA-Seq · CRISPR · Nextflow · R · Python · HPC</br>  
-🌱 Currently building: RNA-Seq Differential Expression Pipeline & STR Population Genetics Pipeline<br> 
-💼 Open to: Junior Bioinformatics roles, Data Analyst roles & funded PhD positions in Ireland<br>
+🌱 Currently building: RNA-Seq Differential Expression Pipeline & STR Population Genetics Pipeline</br> 
+💼 Open to: Junior Bioinformatics roles, Data Analyst roles & funded PhD positions in Ireland</br>
 
 
 ## 🌐 Socials:
