@@ -2,8 +2,8 @@ Hi, I'm Swarali Deshpande ✨
 
 🎓 MSc Biological & Biomolecular Science (Bioinformatics) — University College Dublin</br>  
 📍 Dublin, Ireland</br> 
-🔬 Junior Bioinformatician | RNA-Seq · CRISPR · Nextflow · R · Python · HPC</br>  
-💼 Open to: Junior Bioinformatics roles, Data Analyst roles & funded PhD positions in Ireland</br>
+🔬 Bioinformatician | RNA-Seq · CRISPR · Nextflow · R · Python · HPC</br>  
+💼 Open to: Bioinformatics roles, Data Analyst roles & funded PhD positions in Ireland</br>
 
 
 ## 🌐 Socials:
